@@ -1,0 +1,13 @@
+# Sales Data Analysis Dashboard - Dependencies
+# Python >= 3.9
+
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+openpyxl>=3.1.0
+jupyter>=1.0.0
+notebook>=7.0.0
+nbformat>=5.9.0
+nbclient>=0.8.0
+python-pptx>=0.6.21
