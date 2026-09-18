@@ -9,7 +9,7 @@
 
 > **Internship Mini Project – Data Analysis**  
 > **Level:** Beginner to Intermediate | **Duration:** 2 Weeks  
-> **Author:** Data Analytics Intern | **Analysis Horizon:** 2014 – 2017 (4 Years)  
+> **Author:** R Abida | **Analysis Horizon:** 2014 – 2017 (4 Years)  
 > **Dataset:** 9,994 Verified Actual Records (Authentic Retail Transactions; 0 Fabricated Data)
 
 ---
@@ -268,4 +268,4 @@ jupyter notebook notebooks/sales_analysis.ipynb
 - [x] **At least 5 business insights generated** (7 comprehensive insights delivered)
 - [x] **Project Report created** (14 sections in markdown and HTML)
 - [x] **Presentation prepared** (`final_presentation.pptx` and `.md`)
-- [x] **GitHub structure prepared** with comprehensive documentation
+
